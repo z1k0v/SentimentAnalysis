@@ -1,1 +1,4 @@
 Sentiment Analysis
+
+
+Used a dataset of movie reviews, then create and train model, so when given a new review model will analize the feeback of new review (positive or negative)
